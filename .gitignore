@@ -43,3 +43,4 @@ TAGS
 cscope.*
 ncscope.*
 *cscope*
+.DS_Store
