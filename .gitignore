@@ -7,7 +7,6 @@
 
 .lib
 *.i
-*.s
 *.e
 *.d
 pal.map
